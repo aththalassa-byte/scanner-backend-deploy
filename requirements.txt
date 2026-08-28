@@ -1,0 +1,2 @@
+# server.py uses only Python stdlib (http.server, sqlite3, json, datetime)
+# No external dependencies required.
